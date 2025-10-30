@@ -5,7 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages 部署配置
-  // 如果是生产环境且有仓库名，使用 /repo-name/ 作为 base
-  // 否则使用根路径 /
-  base: './',
+  // 使用仓库名作为 base，确保资源路径正确
+  base: '/codepulse-lite/',
 })
