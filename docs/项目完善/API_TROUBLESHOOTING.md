@@ -46,7 +46,7 @@
 
 ```bash
 # 在项目根目录创建 .env 文件
-cd c:\Users\Administrator\Desktop\files\codeg\10.30\codepulse-lite
+cd codepulse-lite
 
 # 复制模板
 copy .env.example .env
