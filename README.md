@@ -9,7 +9,7 @@
 
 **智能分析 GitHub 仓库健康度的现代化 Web 应用**
 
-[GitHub Pages](https://yourusername.github.io/codepulse-lite/) · [Vercel 演示](https://codepulse-lite.vercel.app) · [报告问题](https://github.com/yourusername/codepulse-lite/issues) · [部署指南](./docs/GITHUB_PAGES_DEPLOY.md)
+[GitHub Pages](https://jkk-afk.github.io/codepulse-lite/) · [报告问题](https://github.com/jkk-AFK/codepulse-lite/issues) · [功能建议](https://github.com/jkk-AFK/codepulse-lite/issues) · [部署指南](./docs/GITHUB_PAGES_DEPLOY.md)
 
 </div>
 
@@ -49,7 +49,7 @@
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/yourusername/codepulse-lite.git
+git clone https://github.com/jkk-AFK/codepulse-lite.git
 cd codepulse-lite
 ```
 
@@ -201,11 +201,11 @@ codepulse-lite/
 
 ### 快速部署到 Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/codepulse-lite)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jkk-AFK/codepulse-lite)
 
 ### 快速部署到 Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/codepulse-lite)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jkk-AFK/codepulse-lite)
 
 ## 🛠️ 开发指南
 
@@ -287,8 +287,7 @@ git push origin main
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 提交 [Issue](https://github.com/yourusername/codepulse-lite/issues)
-- 发送邮件至: your.email@example.com
+- 提交 [Issue](https://github.com/jkk-AFK/codepulse-lite/issues)
 - 访问作者 GitHub: [@jkk-AFK](https://github.com/jkk-AFK)
 
 ---
