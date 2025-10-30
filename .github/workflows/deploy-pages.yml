@@ -1,11 +1,9 @@
 name: Deploy to GitHub Pages
 
 on:
-  # 推送到 main 分支时触发
   push:
     branches:
       - main
-  # 允许手动触发
   workflow_dispatch:
 
 # 设置 GITHUB_TOKEN 的权限
